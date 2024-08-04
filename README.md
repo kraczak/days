@@ -1,5 +1,5 @@
 # days
-A simple program for calculating days difference between dates.
+A simple CLI created for learning purposes, that calculates days difference between dates.
 
 ## Usage
 ```
